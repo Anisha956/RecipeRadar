@@ -42,7 +42,7 @@ The project is strictly organized to follow **Separation of Concerns**, making t
 ## 📥 How to Run
 1. Clone this repository: 
    ```bash
-   git clone [https://github.com/Anisha956/RecipeRadar.git](https://github.com/Anisha956/RecipeRadar.git)
+   git clone [https://github.com/Anisha956/RecipeRadar.git]
 2.Open in Android Studio.
 
 3.Ensure your device/emulator has internet access.
