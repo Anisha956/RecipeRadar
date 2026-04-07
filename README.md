@@ -33,7 +33,7 @@ The project is strictly organized to follow **Separation of Concerns**, making t
 ---
 
 ## 📸 Preview
-<img src="home_screen.jpg" width="200"> <img src="recipe_searchbar.jpg" width="200"> <img src="recipe_instruction.jpg" width="200"> <img src="recipe_description.jpg" width="200">
+<img src="home_screen.jpg" width="200"> <img src="recipe_searchbar.jpg" width="200"> <img src="recipe_instruction.jpg" width="200"> <img src="category_description.jpg" width="200">
 
 ---
 
