@@ -33,9 +33,10 @@ The project is strictly organized to follow **Separation of Concerns**, making t
 ---
 
 ## 📸 Preview
-| Home Screen | Search Results | Recipe Detail |
-| :---: | :---: | :---: |
-| ![Home](https://via.placeholder.com/200x400?text=Categories) | ![Search](https://via.placeholder.com/200x400?text=Search+Results) | ![Detail](https://via.placeholder.com/200x400?text=Instructions) |
+<img src="home_screen.jpg" width="200">
+<img src="recipe_searchbar.jpg" width="200">
+<img src="recipe_instruction.jpg" width="200">
+<img src="recipe_description.jpg" width="200">
 
 ---
 
