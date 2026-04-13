@@ -35,10 +35,8 @@ The project is structured in a clean and organized way:
 ---
 
 ## 📸 Preview
-<img src="home_screen.jpg" width="200"> 
-<img src="recipe_searchbar.jpg" width="200"> 
-<img src="recipe_instruction.jpg" width="200"> 
-<img src="category_description.jpg" width="200">
+<img src="home_screen.jpg" width="200"> <img src="recipe_searchbar.jpg" width="200"> 
+<img src="recipe_instruction.jpg" width="200"> <img src="category_description.jpg" width="200">
 
 ---
 
